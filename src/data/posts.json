@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Tips Minum Kopi",
+    "description": "Cara menikmati kopi terbaik agar cita rasa optimal."
+  },
+  {
+    "id": 2,
+    "title": "Manfaat Teh Hijau",
+    "description": "Kesehatan dari teh hijau untuk tubuh dan pikiran."
+  },
+  {
+    "id": 3,
+    "title": "Mengenal Kopi Arabica",
+    "description": "Sejarah, karakteristik, dan cara penyajian kopi Arabica."
+  },
+  {
+    "id": 4,
+    "title": "Cara Menyeduh Teh Organik",
+    "description": "Langkah-langkah menyeduh teh organik agar rasa maksimal."
+  },
+  {
+    "id": 5,
+    "title": "Perbedaan Kopi Arabica dan Robusta",
+    "description": "Kopi Arabica vs Robusta: perbedaan rasa, aroma, dan harga."
+  },
+
+  {
+    "id": 6,
+    "title": "Misteri Hilangnya Artefak Kuno di Museum Nasional yang Menggemparkan Dunia Arkeologi",
+    "description": "Hilangnya sebuah artefak kuno yang sangat langka dari Museum Nasional memicu kehebohan di kalangan arkeolog dan sejarawan. Objek yang hilang, sebuah patung perunggu kecil dari peradaban kuno yang diyakini memiliki kekuatan mistis, telah menjadi fokus utama investigasi. Aparat keamanan bekerja sama dengan para ahli untuk mengungkap misteri di balik pencurian yang tampaknya mustahil ini, mencari petunjuk di setiap sudut galeri yang sepi. Kerugian ini tidak hanya bernilai finansial, tetapi juga merupakan kehilangan tak ternilai bagi warisan budaya global."
+  },
+  {
+    "id": 7,
+    "title": "Analisis Dampak Perubahan Iklim Terhadap Ekosistem Laut Tropis di Wilayah Asia Tenggara",
+    "description": "Penelitian terbaru menunjukkan bahwa perubahan iklim global telah menyebabkan kerusakan signifikan pada ekosistem laut di Asia Tenggara. Kenaikan suhu air laut dan pengasaman samudra mengancam kelangsungan hidup terumbu karang, yang merupakan rumah bagi ribuan spesies ikan dan organisme laut lainnya. Para ilmuwan mendesak adanya tindakan cepat dan terkoordinasi dari pemerintah dan masyarakat untuk mengurangi emisi gas rumah kaca dan mengadopsi praktik-praktis berkelanjutan demi menjaga keberlanjutan sumber daya laut kita untuk generasi mendatang."
+  },
+  {
+    "id": 8,
+    "title": "Eksplorasi Keajaiban Gua Bawah Tanah yang Tersembunyi di Pegunungan Terpencil",
+    "description": "Sebuah tim penjelajah gua berhasil menemukan sistem gua bawah tanah yang menakjubkan di sebuah pegunungan yang belum terjamah. Di dalamnya, mereka menemukan formasi batuan kristal yang berkilauan, sungai bawah tanah yang jernih, dan spesies unik yang belum pernah tercatat sebelumnya. Penemuan ini membuka wawasan baru tentang geologi dan biologi bawah tanah, serta potensi pariwisata ekologis yang dapat dikembangkan dengan tetap menjaga kelestarian alam. Proses eksplorasi ini penuh dengan tantangan, namun hasilnya sangat memuaskan."
+  },
+  {
+    "id": 9,
+    "title": "Tren Kecerdasan Buatan dalam Pengembangan Aplikasi Mobile untuk Pengalaman Pengguna yang Lebih Baik",
+    "description": "Penerapan kecerdasan buatan (AI) kini menjadi tren utama dalam pengembangan aplikasi mobile. Dari personalisasi konten hingga asisten virtual yang cerdas, AI mengubah cara kita berinteraksi dengan perangkat seluler. Para pengembang fokus pada algoritma pembelajaran mesin untuk memprediksi perilaku pengguna, mengoptimalkan antarmuka, dan memberikan rekomendasi yang sangat relevan. Hal ini tidak hanya meningkatkan efisiensi, tetapi juga menciptakan pengalaman pengguna yang lebih intuitif, lancar, dan personal. Masa depan aplikasi mobile akan sangat ditentukan oleh sejauh mana teknologi AI diintegrasikan."
+  },
+  {
+    "id": 10,
+    "title": "Inovasi Teknologi Pangan: Mengatasi Krisis Pangan Global Melalui Pertanian Vertikal",
+    "description": "Pertanian vertikal menjadi solusi inovatif untuk mengatasi tantangan ketahanan pangan global. Dengan menggunakan teknologi hidroponik dan pencahayaan LED yang terkontrol, pertanian vertikal memungkinkan penanaman sayuran di dalam ruangan, mengurangi kebutuhan lahan yang luas dan air. Model ini sangat efektif di perkotaan, di mana lahan pertanian terbatas. Selain itu, pertanian vertikal dapat menghasilkan panen sepanjang tahun tanpa terpengaruh kondisi cuaca eksternal. Inovasi ini menjanjikan masa depan yang lebih aman dan berkelanjutan bagi produksi makanan dunia."
+  },
+  {
+    "id": 11,
+    "title": "Dampak Psikologis Pandemi Terhadap Remaja: Studi Kasus dan Rekomendasi Penanganan",
+    "description": "Pandemi COVID-19 meninggalkan jejak yang mendalam pada kesehatan mental remaja. Studi terbaru menunjukkan peningkatan signifikan dalam kasus kecemasan, depresi, dan isolasi sosial. Jarak fisik dari teman-teman dan tekanan akademik dari pembelajaran daring menciptakan lingkungan yang penuh tantangan. Para psikolog dan pendidik menekankan pentingnya komunikasi terbuka, akses ke layanan kesehatan mental, dan aktivitas kreatif untuk membantu remaja melewati masa sulit ini. Dukungan dari keluarga dan lingkungan sekolah sangat krusial dalam pemulihan mereka."
+  },
+  {
+    "id": 12,
+    "title": "Perjalanan Epik Menuju Puncak Gunung Tertinggi di Benua Antarktika yang Penuh Tantangan",
+    "description": "Sebuah tim pendaki gunung profesional berhasil menyelesaikan perjalanan yang luar biasa, mencapai puncak gunung tertinggi di Antarktika. Ekspedisi ini bukan hanya tentang kebugaran fisik, tetapi juga ketahanan mental dalam menghadapi suhu ekstrem, angin kencang, dan medan yang berbahaya. Setiap langkah adalah perjuangan melawan alam yang tidak ramah. Keberhasilan ini tidak hanya menjadi pencapaian pribadi bagi para pendaki, tetapi juga memberikan data ilmiah berharga tentang kondisi glasial dan atmosfer di salah satu tempat paling terpencil di bumi."
+  },
+  {
+    "id": 13,
+    "title": "Perkembangan Industri Hiburan di Metaverse: Dari Konser Virtual hingga Pameran Seni Interaktif",
+    "description": "Metaverse mengubah lanskap industri hiburan, menciptakan pengalaman yang sepenuhnya imersif. Artis-artis terkemuka mengadakan konser virtual yang dihadiri jutaan avatar, sementara galeri seni virtual memungkinkan pengunjung berinteraksi langsung dengan karya seni. Teknologi augmented reality dan virtual reality menjadi kunci untuk menghubungkan dunia fisik dengan dunia digital. Peluang bisnis baru muncul, termasuk penjualan properti virtual dan barang koleksi digital. Era baru hiburan telah dimulai, dan batas antara realitas dan fiksi semakin kabur."
+  },
+  {
+    "id": 14,
+    "title": "Mengungkap Misteri 'Kota Emas' yang Hilang di Hutan Amazon melalui Citra Satelit Lidar",
+    "description": "Penggunaan teknologi Lidar, sebuah metode pemindaian laser dari udara, telah membantu para arkeolog menemukan jejak-jejak peradaban kuno yang tersembunyi di bawah kanopi hutan Amazon. Citra resolusi tinggi mengungkapkan struktur bangunan, jalan, dan saluran air yang dulunya merupakan bagian dari 'Kota Emas' yang hilang. Penemuan ini menantang pandangan konvensional tentang populasi pra-Kolombia di Amazon dan memberikan bukti bahwa peradaban di sana jauh lebih maju dan kompleks daripada yang diperkirakan sebelumnya. Penelitian lebih lanjut sedang dilakukan untuk memahami sejarah dan budaya mereka."
+  },
+  {
+    "id": 15,
+    "title": "Masa Depan Transportasi Publik: Kendaraan Listrik Otonom sebagai Solusi Ramah Lingkungan",
+    "description": "Kendaraan listrik otonom (self-driving electric vehicles) diproyeksikan akan merevolusi transportasi publik. Teknologi ini tidak hanya mengurangi emisi karbon, tetapi juga meningkatkan efisiensi dan keamanan. Sistem navigasi cerdas memungkinkan kendaraan beroperasi tanpa pengemudi, mengoptimalkan rute dan mengurangi kemacetan. Pemerintah di seluruh dunia berinvestasi besar dalam infrastruktur pendukung, seperti stasiun pengisian cepat dan jaringan sensor. Ini adalah langkah penting menuju kota-kota yang lebih bersih, lebih cerdas, dan lebih mudah diakses untuk semua orang."
+  },
+  {
+    "id": 16,
+    "title": "Keberhasilan Misi Ruang Angkasa Mengumpulkan Sampel Batuan dari Asteroid Bennu",
+    "description": "Sebuah pesawat ruang angkasa robotik telah berhasil menyelesaikan misi bersejarah dengan mengumpulkan sampel batuan dari asteroid Bennu dan membawanya kembali ke Bumi. Misi ini memberikan kesempatan unik bagi para ilmuwan untuk mempelajari materi purba yang berasal dari awal pembentukan tata surya. Analisis sampel ini diharapkan dapat memberikan wawasan baru tentang asal-usul air dan molekul organik di Bumi, serta membantu dalam memahami bagaimana kehidupan dimulai. Data yang terkumpul akan menjadi bahan studi penting bagi generasi ilmuwan mendatang."
+  },
+  {
+    "id": 17,
+    "title": "Peran Teknologi Blockchain dalam Mengamankan Data Pribadi di Era Digital",
+    "description": "Teknologi blockchain, yang terkenal karena perannya dalam mata uang kripto, kini digunakan untuk melindungi data pribadi. Dengan arsitektur desentralisasinya, blockchain menciptakan catatan data yang tidak dapat diubah dan tahan terhadap peretasan. Hal ini sangat berguna dalam sektor-sektor seperti kesehatan, keuangan, dan pemerintahan, di mana keamanan data adalah prioritas utama. Meskipun tantangan dalam skalabilitas masih ada, potensi blockchain untuk menciptakan ekosistem digital yang lebih aman dan transparan sangatlah besar dan menjanjikan untuk masa depan."
+  },
+  {
+    "id": 18,
+    "title": "Revolusi Bio-Medis: Pengobatan Berbasis Sel Punca untuk Penyakit Degeneratif",
+    "description": "Terapi sel punca membuka babak baru dalam pengobatan penyakit degeneratif seperti Parkinson dan Alzheimer. Sel punca memiliki kemampuan unik untuk berkembang menjadi berbagai jenis sel, memungkinkan para ilmuwan untuk memperbaiki jaringan yang rusak atau mengganti sel yang mati. Meskipun masih dalam tahap penelitian, uji klinis awal menunjukkan hasil yang menjanjikan. Potensi terapi ini sangat besar, menawarkan harapan baru bagi jutaan orang yang menderita penyakit kronis dan tidak dapat disembuhkan dengan metode konvensional. Penelitian ini sedang bergerak maju."
+  },
+  {
+    "id": 19,
+    "title": "Dampak Urbanisasi Terhadap Kualitas Udara di Kota-Kota Besar dan Solusinya",
+    "description": "Urbanisasi yang pesat di kota-kota besar telah menyebabkan peningkatan signifikan dalam polusi udara. Emisi dari kendaraan, industri, dan pembangunan berkontribusi pada partikel berbahaya dan gas rumah kaca yang memengaruhi kesehatan masyarakat. Pemerintah dan ahli lingkungan berkolaborasi untuk mengimplementasikan solusi seperti peningkatan transportasi publik yang ramah lingkungan, pengembangan ruang hijau, dan penegakan peraturan emisi yang lebih ketat. Upaya ini bertujuan untuk menciptakan lingkungan perkotaan yang lebih sehat dan berkelanjutan bagi penduduknya."
+  },
+  {
+    "id": 20,
+    "title": "Keajaiban Arsitektur Kuno: Analisis Struktur Piramida Agung Mesir dengan Teknologi Modern",
+    "description": "Para arkeolog dan insinyur menggunakan teknologi modern seperti pemindaian laser dan sensor infra-merah untuk mengungkap rahasia di balik Piramida Agung Mesir. Analisis ini memberikan pemahaman baru tentang metode konstruksi yang digunakan oleh peradaban kuno, menyingkap koridor-koridor tersembunyi dan ruang kosong yang belum pernah diketahui sebelumnya. Penemuan ini menantang teori-teori yang ada tentang bagaimana piramida dibangun. Penelitian ini tidak hanya memuaskan rasa ingin tahu kita tentang masa lalu, tetapi juga menginspirasi inovasi dalam bidang arsitektur modern."
+  },
+  {
+    "id": 21,
+    "title": "Potensi Energi Terbarukan: Pemanfaatan Energi Panas Bumi untuk Kebutuhan Domestik dan Industri",
+    "description": "Energi panas bumi, yang memanfaatkan panas dari inti bumi, menawarkan sumber energi yang bersih dan berkelanjutan. Indonesia, sebagai 'ring of fire', memiliki potensi panas bumi yang sangat besar. Pembangkit listrik tenaga panas bumi dapat menyediakan pasokan energi yang stabil, mengurangi ketergantungan pada bahan bakar fosil, dan meminimalkan emisi karbon. Namun, tantangan teknis dan biaya awal yang tinggi masih menjadi hambatan. Pengembangan infrastruktur dan kebijakan yang mendukung akan menjadi kunci untuk membuka potensi penuh dari sumber energi ini."
+  },
+  {
+    "id": 22,
+    "title": "Kemajuan Penelitian Antariksa: Pencarian Kehidupan di Planet-Planet Ekstrasurya",
+    "description": "Para ilmuwan di seluruh dunia menggunakan teleskop canggih untuk mencari tanda-tanda kehidupan di planet-planet di luar tata surya kita, yang dikenal sebagai planet ekstrasurya. Mereka menganalisis atmosfer planet untuk mendeteksi 'biosignatures' seperti oksigen, metana, dan uap air. Proyek-proyek seperti James Webb Space Telescope telah memberikan data yang sangat berharga, membuka kemungkinan besar bahwa kita tidak sendirian di alam semesta. Meskipun belum ada bukti definitif, setiap penemuan baru membawa kita selangkah lebih dekat untuk menjawab pertanyaan fundamental tentang asal-usul kehidupan."
+  },
+  {
+    "id": 23,
+    "title": "Dampak Media Sosial Terhadap Kesehatan Mental dan Hubungan Sosial di Kalangan Remaja",
+    "description": "Penelitian terbaru menunjukkan bahwa penggunaan media sosial yang berlebihan dapat berdampak negatif pada kesehatan mental remaja, termasuk peningkatan rasa cemas, depresi, dan perbandingan sosial. Fenomena 'fear of missing out' (FOMO) dan cyberbullying menjadi masalah serius. Para ahli menyarankan agar remaja membatasi waktu layar, mempraktikkan kesadaran diri, dan mencari koneksi sosial di dunia nyata. Pendidikan literasi digital di sekolah dan rumah menjadi kunci untuk membangun hubungan yang lebih sehat dengan teknologi."
+  },
+  {
+    "id": 24,
+    "title": "Peran Mikrobiota Usus dalam Sistem Kekebalan Tubuh dan Kesehatan Manusia Secara Keseluruhan",
+    "description": "Mikrobiota usus, kumpulan triliunan mikroorganisme yang hidup di saluran pencernaan kita, memainkan peran krusial dalam kesehatan. Mereka membantu mencerna makanan, menghasilkan vitamin, dan melatih sistem kekebalan tubuh. Ketidakseimbangan mikrobiota dapat berkontribusi pada berbagai penyakit, mulai dari gangguan pencernaan hingga penyakit autoimun. Para ilmuwan kini mengembangkan probiotik dan prebiotik yang ditargetkan untuk memulihkan keseimbangan mikrobiota, membuka jalan bagi pendekatan pengobatan yang lebih personal dan efektif."
+  },
+  {
+    "id": 25,
+    "title": "Masa Depan Robotika: Kolaborasi antara Manusia dan Robot di Lingkungan Kerja",
+    "description": "Robotika tidak lagi hanya tentang otomatisasi total, tetapi juga tentang kolaborasi yang efektif antara manusia dan robot. Robot kolaboratif, atau 'cobot', dirancang untuk bekerja bersama manusia dalam tugas-tugas yang membutuhkan ketepatan dan kekuatan. Di pabrik-pabrik, cobot membantu pekerja merakit komponen yang berat dan berbahaya, sementara di rumah sakit, robot membantu perawat mengangkat pasien. Peran manusia bergeser dari pekerjaan fisik repetitif ke pengawasan, pemecahan masalah, dan kreativitas."
+  },
+  {
+    "id": 26,
+    "title": "Inovasi Pertanian Berkelanjutan: Penggunaan Drone untuk Memantau Kesehatan Tanaman",
+    "description": "Drone kini menjadi alat penting dalam pertanian modern. Dilengkapi dengan sensor canggih dan kamera multispektral, drone dapat memantau kesehatan tanaman dari udara, mendeteksi tanda-tanda kekurangan nutrisi, penyakit, atau serangan hama. Data yang dikumpulkan memungkinkan petani untuk mengambil tindakan yang tepat secara cepat dan efisien. Teknologi ini tidak hanya meningkatkan hasil panen, tetapi juga mengurangi penggunaan pestisida dan pupuk, menjadikan pertanian lebih ramah lingkungan dan berkelanjutan."
+  },
+  {
+    "id": 27,
+    "title": "Studi Astronomi: Pengamatan Lubang Hitam Supermasif di Pusat Galaksi Bima Sakti",
+    "description": "Para astronom berhasil mengabadikan gambar pertama lubang hitam supermasif yang berada di pusat galaksi Bima Sakti, yang dikenal sebagai Sagittarius A*. Pengamatan ini dilakukan menggunakan jaringan teleskop global yang disebut Event Horizon Telescope. Gambar tersebut memverifikasi teori-teori relativitas Einstein dan memberikan pemahaman mendalam tentang bagaimana lubang hitam memengaruhi lingkungan sekitarnya. Penemuan ini membuka era baru dalam studi astrofisika dan memberikan bukti visual yang menakjubkan dari objek paling misterius di alam semesta."
+  },
+  {
+    "id": 28,
+    "title": "Solusi Ramah Lingkungan untuk Limbah Plastik: Mengubah Sampah Menjadi Bahan Bakar",
+    "description": "Penelitian terbaru menunjukkan bahwa limbah plastik dapat diubah menjadi bahan bakar cair melalui proses pirolisis, sebuah metode dekomposisi termal. Teknologi ini menawarkan solusi inovatif untuk mengatasi masalah polusi plastik yang masif. Plastik yang biasanya berakhir di TPA atau laut, kini dapat didaur ulang menjadi sumber energi alternatif. Meskipun skala penerapannya masih terbatas, potensi untuk mengurangi dampak lingkungan dan menciptakan ekonomi sirkular sangatlah besar. Ini adalah langkah penting menuju planet yang lebih bersih."
+  },
+  {
+    "id": 29,
+    "title": "Pengaruh Musik Klasik terhadap Perkembangan Otak dan Fungsi Kognitif pada Anak-Anak",
+    "description": "Studi ilmiah menunjukkan bahwa mendengarkan musik klasik sejak usia dini dapat meningkatkan kemampuan kognitif, memori, dan keterampilan motorik halus pada anak-anak. Ritme dan melodi yang kompleks dalam musik klasik merangsang berbagai area di otak, termasuk yang bertanggung jawab untuk penalaran spasial dan matematika. Meskipun 'efek Mozart' sering diperdebatkan, bukti menunjukkan bahwa paparan terhadap seni dan musik secara umum memiliki manfaat positif yang signifikan dalam perkembangan otak anak."
+  },
+  {
+    "id": 30,
+    "title": "Perkembangan Pengobatan Kanker: Terapi Gen dan Imunoterapi sebagai Harapan Baru",
+    "description": "Pengobatan kanker telah mengalami kemajuan pesat dengan munculnya terapi gen dan imunoterapi. Terapi gen menargetkan gen penyebab kanker, sementara imunoterapi menggunakan sistem kekebalan tubuh pasien sendiri untuk menyerang sel-sel kanker. Metode-metode ini menawarkan pengobatan yang lebih presisi dengan efek samping yang lebih sedikit dibandingkan kemoterapi dan radiasi. Meskipun tantangan dalam biaya dan aksesibilitas masih ada, terapi ini menunjukkan tingkat keberhasilan yang tinggi dan memberikan harapan besar bagi pasien kanker di seluruh dunia."
+  },
+  {
+    "id": 31,
+    "title": "Dampak Teknologi 5G Terhadap Konektivitas dan Inovasi di Berbagai Sektor Industri",
+    "description": "Teknologi 5G membawa revolusi dalam konektivitas dengan kecepatan data super cepat dan latensi yang sangat rendah. Hal ini memungkinkan inovasi di berbagai sektor, dari kendaraan otonom dan bedah jarak jauh hingga kota-kota pintar dan Internet of Things (IoT). Dengan 5G, perangkat dapat berkomunikasi secara instan, membuka pintu untuk aplikasi yang sebelumnya tidak mungkin. Meskipun ada kekhawatiran tentang keamanan dan infrastruktur, potensi 5G untuk mentransformasi cara kita hidup dan bekerja sangatlah besar."
+  },
+  {
+    "id": 32,
+    "title": "Analisis Perubahan Pola Migrasi Burung Akibat Perubahan Lingkungan dan Iklim Global",
+    "description": "Perubahan iklim dan hilangnya habitat secara signifikan memengaruhi pola migrasi burung. Pemanasan global mengubah siklus musim, memengaruhi ketersediaan makanan dan waktu berkembang biak. Akibatnya, banyak spesies burung harus mengubah rute migrasi tradisional mereka atau memperpendek jarak perjalanan. Para ahli ornitologi menggunakan pelacak GPS dan data satelit untuk memantau pergerakan burung dan memahami dampak dari perubahan lingkungan ini. Penemuan ini menyoroti pentingnya upaya konservasi global."
+  },
+  {
+    "id": 33,
+    "title": "Masa Depan Keuangan Digital: Integrasi Mata Uang Kripto dan Layanan Keuangan Tradisional",
+    "description": "Dunia keuangan sedang menyaksikan pergeseran besar dengan semakin diterimanya mata uang kripto. Bank-bank tradisional dan perusahaan teknologi keuangan (fintech) mulai mengintegrasikan aset digital dan teknologi blockchain ke dalam layanan mereka. Hal ini memungkinkan transaksi yang lebih cepat, lebih murah, dan lebih transparan. Meskipun volatilitas pasar kripto masih menjadi perhatian, potensi desentralisasi dan inklusi keuangan yang ditawarkan teknologi ini sangatlah besar. Regulasi yang jelas akan menjadi kunci untuk mengamankan transisi ini."
+  },
+  {
+    "id": 34,
+    "title": "Penemuan Spesies Baru di Hutan Hujan Kalimantan yang Belum Terjamah Sebelumnya",
+    "description": "Sebuah tim ahli biologi berhasil menemukan beberapa spesies baru, termasuk serangga, tumbuhan, dan amfibi, di bagian terpencil hutan hujan Kalimantan. Keberadaan spesies-spesies ini menunjukkan betapa kayanya biodiversitas di kawasan tersebut dan betapa pentingnya menjaga ekosistem yang rapuh ini. Penemuan ini juga menjadi pengingat bahwa masih banyak hal yang belum kita ketahui tentang planet kita. Upaya konservasi yang lebih intensif sangat diperlukan untuk melindungi habitat mereka dari deforestasi dan perubahan iklim."
+  },
+  {
+    "id": 35,
+    "title": "Dampak Penggunaan Energi Nuklir sebagai Solusi Kebutuhan Energi di Masa Depan",
+    "description": "Energi nuklir kembali menjadi sorotan sebagai solusi potensial untuk memenuhi kebutuhan energi global sambil mengurangi emisi karbon. Pembangkit listrik tenaga nuklir menghasilkan energi dalam jumlah besar dengan jejak karbon yang sangat kecil. Namun, kekhawatiran tentang keamanan, limbah radioaktif, dan risiko kecelakaan masih menjadi tantangan utama. Teknologi reaktor generasi baru, seperti reaktor modular kecil, menawarkan solusi yang lebih aman dan efisien. Debat tentang peran energi nuklir akan terus berlanjut di tengah transisi energi global."
+  }
+]

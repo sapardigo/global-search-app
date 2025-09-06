@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "title": "Kopi Arabica",
+    "description": "Biji kopi arabica",
+    "price": 120000,
+    "image": "/images/product-1.jpg",
+    "details": "Asal Aceh Gayo"
+  },
+  {
+    "id": 2,
+    "title": "Teh Hijau",
+    "description": "Teh hijau organik",
+    "price": 75000,
+    "image": "/images/product-2.jpg",
+    "details": "Asal Ciwidey"
+  },
+
+  {
+    "id": 3,
+    "title": "Celana Jeans Slim Fit Pria Denim Stretch Warna Biru Gelap Kasual",
+    "description": "Celana jeans slim fit pria dengan bahan denim stretch yang nyaman dipakai. Desain kasual modern cocok untuk berbagai acara. Tersedia dalam berbagai ukuran.",
+    "price": 350000,
+    "image": "/images/produk-3.jpg",
+    "details": "Bahan: Denim Stretch, Warna: Biru Gelap, Fit: Slim Fit, Ukuran: 28-36"
+  },
+  {
+    "id": 4,
+    "title": "Kemeja Flanel Lengan Panjang Pria Motif Kotak-Kotak Merah Hitam",
+    "description": "Kemeja flanel lengan panjang berbahan katun lembut dengan motif kotak-kotak klasik. Cocok untuk tampilan kasual dan santai. Nyaman dipakai sepanjang hari.",
+    "price": 225000,
+    "image": "/images/produk-4.jpg",
+    "details": "Bahan: Katun Flanel, Motif: Kotak-Kotak Merah Hitam, Lengan: Panjang, Ukuran: M, L, XL"
+  },
+  {
+    "id": 5,
+    "title": "Sepatu Sneakers Pria Running Lifestyle Sport Casual Warna Putih",
+    "description": "Sepatu sneakers pria dengan desain sporty dan kasual. Cocok untuk lari atau aktivitas sehari-hari. Sol yang empuk memberikan kenyamanan maksimal.",
+    "price": 550000,
+    "image": "/images/produk-5.jpg",
+    "details": "Bahan: Mesh, Sol: Karet, Warna: Putih, Style: Running & Lifestyle"
+  },
+  {
+    "id": 6,
+    "title": "Jaket Bomber Pria Stylish Warna Hitam Polos Casual Streetwear",
+    "description": "Jaket bomber pria dengan desain simpel dan stylish. Terbuat dari bahan berkualitas tinggi, cocok untuk gaya streetwear. Tahan angin dan ringan.",
+    "price": 420000,
+    "image": "/images/produk-6.jpg",
+    "details": "Bahan: Parasut, Warna: Hitam, Style: Bomber, Fit: Regular"
+  },
+  {
+    "id": 7,
+    "title": "Hoodie Pria Jumper Unisex Polos Cotton Fleece Abu-Abu Muda",
+    "description": "Hoodie polos unisex dengan bahan cotton fleece yang tebal dan lembut. Memberikan kehangatan dan kenyamanan. Cocok untuk gaya santai sehari-hari.",
+    "price": 185000,
+    "image": "/images/produk-7.jpg",
+    "details": "Bahan: Cotton Fleece, Warna: Abu-Abu Muda, Fit: Regular, Style: Hoodie Jumper"
+  },
+  {
+    "id": 8,
+    "title": "Tas Ransel Laptop Pria Wanita Backpack Stylish USB Charging Port",
+    "description": "Tas ransel multifungsi untuk laptop dan keperluan sehari-hari. Dilengkapi port USB charging untuk kemudahan pengisian daya gadget Anda. Desain modern.",
+    "price": 295000,
+    "image": "/images/produk-8.jpg",
+    "details": "Fitur: Slot Laptop, USB Charging Port, Bahan: Oxford, Ukuran: 45x30x15 cm"
+  },
+  {
+    "id": 9,
+    "title": "Jam Tangan Digital Pria Sporty Tahan Air 50M LED Watch Rubber",
+    "description": "Jam tangan digital sporty dengan fitur tahan air hingga 50 meter. Tali berbahan rubber yang nyaman dan ringan. Cocok untuk aktivitas outdoor.",
+    "price": 275000,
+    "image": "/images/produk-9.jpg",
+    "details": "Fitur: Tahan Air 50M, LED Display, Bahan Tali: Karet, Style: Digital Sport"
+  },
+  {
+    "id": 10,
+    "title": "Sweater Rajut Pria Wanita V-Neck Lengan Panjang Motif Polos",
+    "description": "Sweater rajut V-neck unisex berbahan katun rajut yang lembut. Desain klasik dan sederhana, cocok dipadukan dengan kemeja atau kaus. Hangat dan stylish.",
+    "price": 199000,
+    "image": "/images/produk-10.jpg",
+    "details": "Bahan: Katun Rajut, Fit: Regular, Style: V-Neck Sweater, Warna: Cream"
+  },
+  {
+    "id": 11,
+    "title": "Kemeja Polos Lengan Pendek Pria Casual Bahan Katun Oxford Biru",
+    "description": "Kemeja polos lengan pendek pria dengan bahan katun oxford berkualitas. Nyaman dipakai untuk acara santai maupun formal. Mudah disetrika dan tidak luntur.",
+    "price": 155000,
+    "image": "/images/produk-11.jpg",
+    "details": "Bahan: Katun Oxford, Warna: Biru, Lengan: Pendek, Style: Casual"
+  },
+  {
+    "id": 12,
+    "title": "Dompet Kulit Pria Lipat Tiga Minimalis Warna Coklat Kopi",
+    "description": "Dompet kulit pria model lipat tiga yang ringkas. Desain minimalis namun fungsional, dilengkapi banyak slot kartu dan uang kertas. Tahan lama dan elegan.",
+    "price": 240000,
+    "image": "/images/produk-12.jpg",
+    "details": "Bahan: Kulit Sintetis, Model: Lipat Tiga, Warna: Coklat Kopi, Fitur: Banyak Slot Kartu"
+  },
+  {
+    "id": 13,
+    "title": "Kaos Kaki Sport Pendek Polos Unisex Bahan Katun Tebal isi 5 pasang",
+    "description": "Kaos kaki pendek sport polos unisex berbahan katun tebal. Menyerap keringat dan tidak licin. Isi 5 pasang dalam satu kemasan, cocok untuk olahraga dan sehari-hari.",
+    "price": 65000,
+    "image": "/images/produk-13.jpg",
+    "details": "Isi: 5 Pasang, Bahan: Katun, Fitur: Menyerap Keringat, Ukuran: All Size"
+  },
+  {
+    "id": 14,
+    "title": "Gantungan Kunci Kulit Pria Gantungan Mobil Minimalis Vintage",
+    "description": "Gantungan kunci stylish berbahan kulit sintetis dengan desain vintage. Aksesori yang sempurna untuk melengkapi kunci mobil atau kunci rumah Anda. Kuat dan awet.",
+    "price": 45000,
+    "image": "/images/produk-14.jpg",
+    "details": "Bahan: Kulit Sintetis, Style: Vintage, Warna: Coklat Tua, Fitur: Ring Kuat"
+  },
+  {
+    "id": 15,
+    "title": "Topi Baseball Pria Wanita Unisex Polos Bahan Katun Casual",
+    "description": "Topi baseball unisex polos yang trendi dan nyaman. Terbuat dari bahan katun berkualitas dengan strap yang bisa disesuaikan. Cocok untuk melindungi dari sinar matahari.",
+    "price": 85000,
+    "image": "/images/produk-15.jpg",
+    "details": "Bahan: Katun, Fit: Adjustable, Style: Baseball Cap, Warna: Hitam"
+  },
+  {
+    "id": 16,
+    "title": "Sarung Tangan Rajut Pria Wanita Hangat Musim Dingin Touchscreen",
+    "description": "Sarung tangan rajut yang hangat dan nyaman, cocok untuk musim dingin. Dilengkapi fitur touchscreen, Anda bisa menggunakan smartphone tanpa melepas sarung tangan.",
+    "price": 75000,
+    "image": "/images/produk-16.jpg",
+    "details": "Bahan: Rajut, Fitur: Touchscreen, Warna: Abu-Abu, Ukuran: All Size"
+  },
+  {
+    "id": 17,
+    "title": "Celana Chino Pria Slim Fit Warna Khaki Bahan Katun Twill",
+    "description": "Celana chino slim fit pria dengan bahan katun twill berkualitas. Nyaman dipakai seharian, cocok untuk gaya kasual dan formal. Warna khaki netral dan mudah dipadukan.",
+    "price": 280000,
+    "image": "/images/produk-17.jpg",
+    "details": "Bahan: Katun Twill, Warna: Khaki, Fit: Slim Fit, Ukuran: 28-36"
+  },
+  {
+    "id": 18,
+    "title": "Tas Selempang Pria Pouch Bag Mini Casual Canvas Korean Style",
+    "description": "Tas selempang mini pria dengan desain minimalis ala Korea. Terbuat dari bahan kanvas yang kuat dan tahan lama. Cocok untuk menyimpan HP dan dompet saat bepergian.",
+    "price": 120000,
+    "image": "/images/produk-18.jpg",
+    "details": "Bahan: Kanvas, Ukuran: Mini, Style: Korean, Warna: Hitam"
+  },
+  {
+    "id": 19,
+    "title": "Sandal Pria Outdoor Jepit Gunung Anti Slip Eiger Consina Rei",
+    "description": "Sandal outdoor pria dengan desain kuat dan anti slip. Cocok untuk aktivitas luar ruang, seperti mendaki gunung atau bepergian santai. Tahan air dan nyaman.",
+    "price": 175000,
+    "image": "/images/produk-19.jpg",
+    "details": "Bahan: Karet, Fitur: Anti Slip, Style: Jepit Gunung, Warna: Hitam"
+  },
+  {
+    "id": 20,
+    "title": "Sabuk Gesper Pria Kulit Sintetis Otomatis Model Rel Hitam",
+    "description": "Sabuk gesper pria dengan sistem otomatis model rel yang praktis. Terbuat dari kulit sintetis berkualitas. Desain elegan dan modern, cocok untuk celana formal.",
+    "price": 99000,
+    "image": "/images/produk-20.jpg",
+    "details": "Bahan: Kulit Sintetis, Model: Otomatis Rel, Warna: Hitam, Lebar: 3.5cm"
+  },
+  {
+    "id": 21,
+    "title": "Kaos Polos Pria Wanita O-Neck Cotton Combed 30s Warna Maroon",
+    "description": "Kaos polos unisex O-Neck berbahan cotton combed 30s yang lembut dan sejuk. Nyaman dipakai, tidak mudah melar, dan cocok untuk sablon. Warna maroon yang elegan.",
+    "price": 70000,
+    "image": "/images/produk-21.jpg",
+    "details": "Bahan: Cotton Combed 30s, Model: O-Neck, Warna: Maroon, Ukuran: S-XXL"
+  },
+  {
+    "id": 22,
+    "title": "Kacamata Hitam Pria Wanita Lensa UV Protection Model Aviator",
+    "description": "Kacamata hitam unisex dengan lensa UV protection yang melindungi mata dari sinar matahari. Desain aviator klasik yang tak lekang oleh waktu. Bingkai kuat dan ringan.",
+    "price": 140000,
+    "image": "/images/produk-22.jpg",
+    "details": "Lensa: UV Protection, Model: Aviator, Bahan Bingkai: Metal, Warna: Hitam"
+  },
+  {
+    "id": 23,
+    "title": "Cincin Pria Titanium Stainless Steel Anti Karat Anti Luntur",
+    "description": "Cincin pria berbahan titanium stainless steel berkualitas tinggi. Tidak mudah karatan dan tidak luntur. Desain maskulin dan elegan, cocok untuk hadiah.",
+    "price": 95000,
+    "image": "/images/produk-23.jpg",
+    "details": "Bahan: Titanium Stainless Steel, Fitur: Anti Karat, Anti Luntur, Ukuran: 7-10"
+  },
+  {
+    "id": 24,
+    "title": "Kemeja Polos Formal Pria Slim Fit Lengan Pendek Warna Putih",
+    "description": "Kemeja formal pria slim fit dengan bahan katun premium. Desain simpel dan rapi, cocok untuk bekerja atau acara formal. Bahan adem dan tidak mudah kusut.",
+    "price": 180000,
+    "image": "/images/produk-24.jpg",
+    "details": "Bahan: Katun Premium, Fit: Slim Fit, Lengan: Pendek, Warna: Putih"
+  },
+  {
+    "id": 25,
+    "title": "Parfum Pria Woody Aromatic EAU DE PARFUM Tahan Lama 100ml",
+    "description": "Parfum pria dengan aroma woody aromatic yang maskulin dan segar. EAU DE PARFUM dengan konsentrasi tinggi, wanginya tahan lama hingga 8 jam. Kemasan elegan.",
+    "price": 320000,
+    "image": "/images/produk-25.jpg",
+    "details": "Jenis: EAU DE PARFUM, Aroma: Woody Aromatic, Ukuran: 100ml, Ketahanan: 8 Jam"
+  },
+  {
+    "id": 26,
+    "title": "Tali Pinggang Kanvas Pria Gesper Otomatis Military Style",
+    "description": "Tali pinggang pria berbahan kanvas tebal dengan gesper otomatis. Desain military style yang kuat dan tangguh. Cocok untuk celana jeans dan celana kasual.",
+    "price": 88000,
+    "image": "/images/produk-26.jpg",
+    "details": "Bahan: Kanvas, Model: Otomatis, Warna: Hijau Army, Lebar: 3.8cm"
+  },
+  {
+    "id": 27,
+    "title": "Celana Jogger Pria Training Pants Slim Fit Bahan Baby Terry",
+    "description": "Celana jogger pria dengan bahan baby terry yang halus dan ringan. Desain slim fit yang modern, cocok untuk olahraga atau gaya kasual. Tersedia berbagai warna.",
+    "price": 170000,
+    "image": "/images/produk-27.jpg",
+    "details": "Bahan: Baby Terry, Fit: Slim Fit, Style: Jogger, Warna: Hitam"
+  },
+  {
+    "id": 28,
+    "title": "Syal Pria Wanita Rajut Tebal Lembut Hangat Musim Dingin",
+    "description": "Syal rajut unisex dengan bahan tebal dan lembut, memberikan kehangatan ekstra saat musim dingin. Desain polos yang elegan dan mudah dipadukan dengan jaket.",
+    "price": 110000,
+    "image": "/images/produk-28.jpg",
+    "details": "Bahan: Rajut, Fitur: Tebal & Hangat, Warna: Merah Marun, Ukuran: 180x30 cm"
+  },
+  {
+    "id": 29,
+    "title": "Jas Hujan Setelan Pria Wanita Bahan PVC Anti Bocor Raincoat",
+    "description": "Jas hujan setelan pria dan wanita berbahan PVC tebal yang anti bocor. Melindungi Anda dari hujan deras saat berkendara. Dilengkapi dengan hoodie dan saku.",
+    "price": 135000,
+    "image": "/images/produk-29.jpg",
+    "details": "Bahan: PVC, Model: Setelan Baju & Celana, Fitur: Anti Bocor, Warna: Biru"
+  },
+  {
+    "id": 30,
+    "title": "Tas Sepatu Olahraga Portable Pria Wanita Anti Air Gym Bag",
+    "description": "Tas sepatu portabel untuk membawa sepatu olahraga saat ke gym, jogging, atau traveling. Bahan anti air yang melindungi sepatu dari basah. Ringan dan praktis.",
+    "price": 60000,
+    "image": "/images/produk-30.jpg",
+    "details": "Fitur: Anti Air, Portable, Bahan: Polyester, Ukuran: 35x20x15 cm"
+  },
+  {
+    "id": 31,
+    "title": "Kaos Kaki Sport Panjang Pria Wanita Bahan Katun Tebal isi 5 pasang",
+    "description": "Kaos kaki panjang sport unisex berbahan katun tebal. Menyerap keringat dan tidak licin. Isi 5 pasang dalam satu kemasan, cocok untuk olahraga dan sehari-hari.",
+    "price": 75000,
+    "image": "/images/produk-31.jpg",
+    "details": "Isi: 5 Pasang, Bahan: Katun, Fitur: Menyerap Keringat, Ukuran: All Size"
+  },
+  {
+    "id": 32,
+    "title": "Jam Tangan Analog Pria Klasik Tali Kulit Sintetis Vintage",
+    "description": "Jam tangan analog pria dengan desain klasik dan vintage. Tali berbahan kulit sintetis yang nyaman dipakai. Cocok untuk melengkapi gaya formal dan kasual. dengan desain klasik dan vintage. Tali berbahan kulit sintetis yang nyaman dipakai",
+    "price": 195000,
+    "image": "/images/produk-32.jpg",
+    "details": "Tipe: Analog, Bahan Tali: Kulit Sintetis, Style: Klasik Vintage, Warna: Coklat"
+  }
+]
