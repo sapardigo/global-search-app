@@ -1,8 +1,10 @@
-// src/app/products/[slug]/page.js
+// folder: src/app/products/[slug]/page.js
+// ini file produk detail
+
+import { headers } from "next/headers";
 import productsData from "@/data/products.json";
 import slugify from "@/utils/slugify";
 import BackButton from "@/components/BackButton";
-import { headers } from "next/headers";
 
 // =======================
 // Metadata SEO / Open Graph
@@ -12,33 +14,30 @@ export async function generateMetadata({ params }) {
   const product = productsData.find((item) => slugify(item.title) === slug);
 
   const headersList = headers();
-  const host = headersList.get("host") || "global-search-app-khaki.vercel.app";
+  const host = headersList.get("host");
   const protocol = host.includes("localhost") ? "http" : "https";
   const currentHostname = `${protocol}://${host}`;
 
   const fullUrl = `${currentHostname}/products/${slug}`;
+
+  // URL gambar absolut, fallback hanya jika product.image kosong
   const imageUrl = product?.image
     ? `${currentHostname}${product.image}`
     : "https://via.placeholder.com/1200x630.png?text=Product+Image";
 
   return {
-    title: product?.title ?? "Produk Tidak Ditemukan",
-    description: product?.description.slice(0, 160) ?? "Detail produk tidak tersedia",
-    openGraph: {
-      title: product?.title ?? "Produk Tidak Ditemukan",
-      description: product?.description.slice(0, 160) ?? "Detail produk tidak tersedia",
-      url: fullUrl,
-      images: [
-        { url: imageUrl, width: 1200, height: 630, alt: product?.title ?? "Produk" },
-      ],
-    },
+    title: product ? product.title : "Produk Tidak Ditemukan",
+    description: product ? product.description.slice(0, 160) : "Detail produk tidak tersedia",
+    openGraph: { title: product ? product.title : "Produk Tidak Ditemukan",
+                description: product ? product.description.slice(0, 160) : "Detail produk tidak tersedia",
+                url: fullUrl,
+                images: [{ url: imageUrl,width: 1200, height: 630, alt: product ? product.title : "Produk",},],
+                },
     twitter: {
       card: "summary_large_image",
-      title: product?.title ?? "Produk Tidak Ditemukan",
-      description: product?.description.slice(0, 160) ?? "Detail produk tidak tersedia",
-      images: [
-        { url: imageUrl, alt: product?.title ?? "Produk" },
-      ],
+      title: product ? product.title : "Produk Tidak Ditemukan",
+      description: product ? product.description.slice(0, 160) : "Detail produk tidak tersedia",
+      images: [imageUrl],
     },
   };
 }
@@ -50,20 +49,24 @@ export default function ProductDetail({ params }) {
   const { slug } = params;
   const product = productsData.find((item) => slugify(item.title) === slug);
 
-  if (!product) return <h1>Produk tidak ditemukan</h1>;
+  if (!product) {
+    return <h1>Produk tidak ditemukan</h1>;
+  }
 
   const headersList = headers();
-  const host = headersList.get("host") || "global-search-app-khaki.vercel.app";
+  const host = headersList.get("host");
   const protocol = host.includes("localhost") ? "http" : "https";
   const currentHostname = `${protocol}://${host}`;
-
   const fullUrl = `${currentHostname}/products/${slug}`;
-  const imageUrl = product.image
-    ? `${currentHostname}${product.image}`
+
+  // URL gambar absolut, fallback hanya jika product.image kosong
+  const imageUrl = product.image ? `${currentHostname}${product.image}`
     : "https://via.placeholder.com/400x300.png?text=Product+Image";
 
-  const shareText = `${product.title}\n\n${product.description.slice(0, 160)}\n\n${fullUrl}`;
+  // teks share (judul + deskripsi max 160 karakter + url)
+  const shareText = `${imageUrl}\n\n${product.title}\n\n${product.description.slice(0, 160)}\n\n${fullUrl}`;
 
+  // link share sosial media
   const shareLinks = {
     facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(fullUrl)}`,
     twitter: `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}`,
@@ -75,27 +78,29 @@ export default function ProductDetail({ params }) {
       <h1>{product.title}</h1>
       <img src={imageUrl} alt={product.title} width="400" />
       <p>{product.description}</p>
-      <p><strong>URL Produk:</strong> {fullUrl}</p>
+      
+      <p><strong>URL Produk:</strong>    {fullUrl} </p>
 
-      {/* Tombol Share Sosial Media */}
+// ========================
+// Tombol Share Sosial Media
+// ========================
       <div style={{ marginTop: "20px" }}>
         <p>Bagikan ke:</p>
         <div style={{ display: "flex", gap: "20px" }}>
-          <a href={shareLinks.facebook} target="_blank" rel="noopener noreferrer">
+          <a href={shareLinks.facebook} target="_blank" rel="noopener noreferrer" >
             <button>Facebook</button>
           </a>
-          <a href={shareLinks.twitter} target="_blank" rel="noopener noreferrer">
+          <a href={shareLinks.twitter} target="_blank" rel="noopener noreferrer" >
             <button>Twitter</button>
           </a>
-          <a href={shareLinks.whatsapp} target="_blank" rel="noopener noreferrer">
+          <a href={shareLinks.whatsapp} target="_blank" rel="noopener noreferrer" >
             <button>WhatsApp</button>
           </a>
         </div>
-
-        {/* Tombol Back */}
-        <div style={{ marginTop: "20px" }}>
-          <BackButton />
-        </div>
+          <div>
+            {/* tombol Back muncul lagi */}
+            <BackButton /> 
+          </div>
       </div>
     </div>
   );
