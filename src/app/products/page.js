@@ -65,7 +65,7 @@ export default function ProductsPage() {
             </div>
 
             {/* 🔹 Perubahan: link ke kanan bawah */}
-            <div style={{ marginTop: "auto", textAlign: "right" }}>
+            <div style={{textAlign: "right" }}>
               <Link href={`/products/${slugify(p.title)}`}>Lihat Detail →</Link>
             </div>
           </div>
