@@ -49,7 +49,9 @@ export default function ProductsPage() {
             }}
           >
             <h2 style={{ fontSize: "18px", color: "brown" }}>{p.title}</h2>
-            <img src={p.image} alt={p.title} width={auto} />
+            {/* <img src={p.image} alt={p.title} width={auto} /> */}
+            <img src={p.image} alt={p.title} style={{ width: "auto", height: "auto" }} />
+
             <p style={{ margin: 0, color: "#555" }}>
               {p.description.length > 300
                 ? p.description.substring(0, 300) + "..."
