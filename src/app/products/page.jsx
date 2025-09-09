@@ -49,7 +49,7 @@ export default function ProductsPage() {
             }}
           >
             <h2 style={{ fontSize: "18px", color: "brown" }}>{p.title}</h2>
-            <img src={p.image} alt={p.title} width={400} height={300} />
+            <img src={p.image} alt={p.title} width={400}  />
             <p style={{ margin: 0, color: "#555" }}>
               {p.description.length > 300
                 ? p.description.substring(0, 300) + "..."
