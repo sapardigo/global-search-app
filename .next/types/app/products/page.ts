@@ -1,4 +1,4 @@
-// File: /Users/code/Projects/Sapardi/SKFE/latihan-api/global-search-app/src/app/products/page.js
+// File: /Users/code/Projects/Sapardi/SKFE/latihan-api/global-search-app/src/app/products/page.jsx
 import * as entry from '../../../../src/app/products/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
