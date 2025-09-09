@@ -62,12 +62,14 @@ export default function ProductsPage() {
               <p>
                 <b>Harga:</b> Rp{p.price.toLocaleString()}
               </p>
-            </div>
 
-            {/* 🔹 Perubahan: link ke kanan bawah */}
+               {/* 🔹 Perubahan: link ke kanan bawah */}
             <p style={{textAlign: "right" }}>
               <Link href={`/products/${slugify(p.title)}`}>Lihat Detail →</Link>
             </p>
+            </div>
+
+           
           </div>
         ))}
       </div>
